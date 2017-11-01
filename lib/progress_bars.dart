@@ -1,7 +1,3 @@
 library progress_bars;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'package:progress_bars/indeterminate_multicolor_progress_indicator.dart';
